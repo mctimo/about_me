@@ -5,7 +5,17 @@
   <a href="https://www.linkedin.com/in/artem-ostapenko-5145bb1aa/">
 </div>
     
-I am most interested in automation in Python and I am developing in this direction. Attentive to details, I appreciate the quality in everything. I am constantly developing and striving for new knowledge. I have had a lot of gaming experience in the past.    
+I am an experienced QA Engineer with a strong background in software testing and development. Throughout my career, I have worked with reputable companies such as JettyCloud, DINS, and Yandex, gaining valuable expertise in the field.
+
+Proficient in tools like PyCharm, Python, GitHub, Selenium, HTML5, CSS3, JSON, Jira, Postman, DevTools, Allure, JMeter, and SQL, I have successfully utilized these technologies to drive efficient and effective testing processes. PyCharm has been my go-to IDE for development, and Python has become my preferred programming language for test automation. GitHub has enabled me to manage version control and collaborate seamlessly with my teams.
+
+In addition to my versatile skill set, I have a solid background in telephony testing and SIP. I have conducted extensive functional testing of telephony systems, ensuring smooth operations of call functionalities, call routing, conferencing, and call quality. Moreover, my proficiency in SIP has allowed me to delve into the intricacies of this protocol and effectively apply it within telephony environments.
+
+I excel in creating comprehensive test strategies, meticulously crafting test cases and checklists, and executing both manual and automated testing procedures. I take pride in my ability to maintain and support lab environments, guaranteeing the availability of a reliable testing infrastructure.
+
+Collaboration and effective communication are pillars of my work style. I thrive in team environments, actively contributing to collective success while being attentive to individual and project-specific requirements. With an unwavering attention to detail, a results-oriented mindset, and a strong sense of responsibility, I ensure the delivery of high-quality projects.
+
+Overall, my diverse experience and extensive skill set make me a valuable asset as a QA Engineer. I am equipped to tackle a wide range of challenges, apply various tools and technologies, and deliver exceptional results.    
 
 
 ### My certificates:
