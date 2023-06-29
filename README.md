@@ -1,9 +1,8 @@
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjAxNDZqd2Z4N3Z0cXhpMGd0ZWNlZ3l4a21xd2VqbzA2dDl2bWx1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/lambotik/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <div id="linkedn">
+  <a href="https://www.linkedin.com/in/artem-ostapenko-5145bb1aa/">
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=lambotik&style=flat-square&color=blue" alt=""/>
