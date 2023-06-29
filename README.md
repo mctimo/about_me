@@ -4,8 +4,6 @@
   <div id="linkedn">
   <a href="https://www.linkedin.com/in/artem-ostapenko-5145bb1aa/">
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=lambotik&style=flat-square&color=blue" alt=""/>
     
 I am most interested in automation in Python and I am developing in this direction. Attentive to details, I appreciate the quality in everything. I am constantly developing and striving for new knowledge. I have had a lot of gaming experience in the past.    
 
@@ -15,7 +13,8 @@ I am most interested in automation in Python and I am developing in this directi
 - [Test Automation with Selenium and Python:](https://stepik.org/cert/1940434)
 - [Programming in Python](https://stepik.org/cert/1277727)
 - [Software Testing: Preparing for ISTQB Foundation Certification](https://stepik.org/cert/2040065)
-- [ISTQB Foundation Certification]([Certificate_99790_CTFL2018-GE_OSTAPENKO_27_04_2023.pdf])
+- [ISTQB Foundation Certification]([Certificate_99790_CTFL2018-GE_OSTAPENKO_27_04_2023.pdf](https://github.com/mctimo/about_me/files/11909731/Certificate_99790_CTFL2018-GE_OSTAPENKO_27_04_2023.pdf)
+)
 - [Software Testing: Automation and Python Programming. API]([https://www.udemy.com/certificate/UC-b41fb9b0-920e-462b-bd3e-93972a69e937])
 
 
