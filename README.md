@@ -1,8 +1,9 @@
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjAxNDZqd2Z4N3Z0cXhpMGd0ZWNlZ3l4a21xd2VqbzA2dDl2bWx1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
-  <div id="linkedn">
-  <a href="https://www.linkedin.com/in/artem-ostapenko-5145bb1aa/">
+  <div id="linkedn" align="center">
+    
+  <a href="https://www.linkedin.com/in/artem-ostapenko-5145bb1aa/">LinkedIn</a>
 </div>
     
 I am an experienced QA Engineer with a strong background in software testing and development. Throughout my career, I have worked with reputable companies such as JettyCloud, DINS, and Yandex, gaining valuable expertise in the field.
